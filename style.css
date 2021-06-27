@@ -1,0 +1,12 @@
+.footer {
+    background-color: teal;
+}
+
+.menu {
+    list-style: none;
+    color: red;
+}
+
+.menu a {
+    color: black;
+}
